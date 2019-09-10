@@ -173,6 +173,6 @@ Module['FS_createPath']('/CarRacing/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 91, "filename": "/UE4CommandLine.txt"}, {"start": 91, "audio": 0, "end": 39088262, "filename": "/CarRacing/Content/Paks/CarRacing-HTML5.pak"}], "remote_package_size": 39088262, "package_uuid": "8d7c9e3c-bc1b-4ba7-a29b-292f8b2f6122"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 91, "filename": "/UE4CommandLine.txt"}, {"start": 91, "audio": 0, "end": 39088266, "filename": "/CarRacing/Content/Paks/CarRacing-HTML5.pak"}], "remote_package_size": 39088266, "package_uuid": "cbe06ccc-4b24-4f5c-8d07-e18cd1ed7b2a"});
 
 })();
