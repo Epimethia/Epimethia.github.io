@@ -1,3 +1,73 @@
 {
-   "author_name": "Movie Time!",
+  "plainText": "Movie Time!",
+  "title": "Movie Time!",
+  "color": 2778813,
+  "fields": [
+    {
+      "name": " ",
+      "value": " ",
+      "inline": true
+    },
+    {
+      "name": "Movie List",
+      "value": "[Click here](https://epimethia.github.io/movielist.html) for the current list of movies that I intend to go through.\nI won't be following it exactly but it's a general idea of what we're watching. Check #announcements for the current movie!",
+      "inline": true
+    },
+    {
+      "name": "Times",
+      "value": "Will usually be [10:30pm - 11:00pm NZT](https://www.thetimezoneconverter.com/?t=10%3A30%20pm&tz=New%20Zealand&) (click to see it in your local time!).\nIf i haven't made an announcement about it, DM or @ me to check!",
+      "inline": true
+    },
+    {
+      "name": "Spontaneous Movies and Shows",
+      "value": "Every now and then, I'll watch a show that isn't on the list. Feel free to jump in at any time to join me, or give yourself the @Spontaneous Show role to get notified.",
+      "inline": true
+    },
+    {
+      "name": "Roles",
+      "value": "Get yourself notification roles by reacting to this message!\n:popcorn: to receive scheduled movie notifications\n:tv: to receive spontaneous show/movie notifications",
+      "inline": true
+    },
+    {
+      "name": "Chats",
+      "value": "Please read the #rules.\n#general chat is for any and all conversation. Keep things civil.\n#movie-chat is for chats about anything related to movies. Please use spoiler tags if you're talking about something we haven't seen!\n#suggestions is for any and all suggestions to make the server better or to suggest movies. Feel free to ping me!",
+      "inline": true
+    }
+  ]
+}{
+  "plainText": "Movie Time!",
+  "title": "Movie Time!",
+  "color": 2778813,
+  "fields": [
+    {
+      "name": " ",
+      "value": " ",
+      "inline": true
+    },
+    {
+      "name": "Movie List",
+      "value": "[Click here](https://epimethia.github.io/movielist.html) for the current list of movies that I intend to go through.\nI won't be following it exactly but it's a general idea of what we're watching. Check #announcements for the current movie!",
+      "inline": true
+    },
+    {
+      "name": "Times",
+      "value": "Will usually be [10:30pm - 11:00pm NZT](https://www.thetimezoneconverter.com/?t=10%3A30%20pm&tz=New%20Zealand&) (click to see it in your local time!).\nIf i haven't made an announcement about it, DM or @ me to check!",
+      "inline": true
+    },
+    {
+      "name": "Spontaneous Movies and Shows",
+      "value": "Every now and then, I'll watch a show that isn't on the list. Feel free to jump in at any time to join me, or give yourself the @Spontaneous Show role to get notified.",
+      "inline": true
+    },
+    {
+      "name": "Roles",
+      "value": "Get yourself notification roles by reacting to this message!\n:popcorn: to receive scheduled movie notifications\n:tv: to receive spontaneous show/movie notifications",
+      "inline": true
+    },
+    {
+      "name": "Chats",
+      "value": "Please read the #rules.\n#general chat is for any and all conversation. Keep things civil.\n#movie-chat is for chats about anything related to movies. Please use spoiler tags if you're talking about something we haven't seen!\n#suggestions is for any and all suggestions to make the server better or to suggest movies. Feel free to ping me!",
+      "inline": true
+    }
+  ]
 }
